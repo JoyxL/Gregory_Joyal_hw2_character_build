@@ -72,27 +72,27 @@ header {
     background-image: url(../images/croped_all.png);
 }
 
-#carol {
+#sanji {
     background-position: -150px 0;
 }
 
-#clint {
+#Usopp {
     background-position: -300px 0;
 }
 
-#hulk {
+#zoro {
     background-position: -450px 0;
 }
 
-#thor {
+#nami {
     background-position: -600px 0;
 }
 
-#widow {
+#robin {
     background-position: -750px 0;
 }
 
-#cap:hover, #sanji:hover, #Usopp:hover, #hulk:hover, #thor:hover, #widow:hover {
+#luffy:hover, #sanji:hover, #Usopp:hover, #zoro:hover, #nami:hover, #robin:hover {
     background-position-y: 150px;
 }
 
