@@ -23,7 +23,7 @@ header {
     width: 300px;
     display: block;
     margin: 0 auto;
-    box-shadow: 2px 2px 1px rgba(0,0,0,0.5);
+    box-shadow: 2px 2px 1px #00000000;
 }
 
 #character_nav {
@@ -92,7 +92,7 @@ header {
     background-position: -750px 0;
 }
 
-#cap:hover, #carol:hover, #clint:hover, #hulk:hover, #thor:hover, #widow:hover {
+#cap:hover, #sanji:hover, #Usopp:hover, #hulk:hover, #thor:hover, #widow:hover {
     background-position-y: 150px;
 }
 
@@ -168,4 +168,16 @@ footer {
 
 #lightbox3 {
     background-image: url(../images/pngs/usop\ png.png);
+}
+
+#lightbox4 {
+    background-image: url(../images/pngs/zoro\ full\ image.png);
+}
+
+#lightbox5 {
+    background-image: url(../images/pngs/nami\ png.png);
+}
+
+#lightbox6 {
+    background-image: url(../images/pngs/robin\ png.png);
 }
